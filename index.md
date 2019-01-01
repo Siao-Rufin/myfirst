@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## My First Pages
 
 You can use the [editor on GitHub](https://github.com/Siao-Rufin/myfirst/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
